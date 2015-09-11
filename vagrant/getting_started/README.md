@@ -1,0 +1,1 @@
+Small compilation of result of doing Vagrant's [Getting Started](https://docs.vagrantup.com/v2/getting-started/index.html)
